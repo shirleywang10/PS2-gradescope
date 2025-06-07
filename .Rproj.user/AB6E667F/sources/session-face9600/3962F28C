@@ -1,7 +1,7 @@
 {
     "id": "3962F28C",
-    "path": "~/Desktop/PS2 Michigan Code.R",
-    "project_path": null,
+    "path": "~/PS2/PS2-Scripts/PS2 Michigan Code.R",
+    "project_path": "PS2 Michigan Code.R",
     "type": "r_source",
     "hash": "3546149052",
     "contents": "",
@@ -11,14 +11,16 @@
     "relative_order": 1,
     "properties": {
         "source_window_id": "",
-        "Source": "Source"
+        "Source": "Source",
+        "cursorPosition": "29,25",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1749318609,
+    "lastKnownWriteTime": 1749319086,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1749318609630,
+    "last_content_update": 1749319086157,
     "read_only": false,
     "read_only_alternatives": []
 }

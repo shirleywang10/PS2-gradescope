@@ -1,7 +1,7 @@
 {
     "id": "A3B27225",
-    "path": "~/Desktop/PS2 California Score Code2.R",
-    "project_path": null,
+    "path": "~/PS2/PS2-Scripts/PS2 California Score Code2.R",
+    "project_path": "PS2 California Score Code2.R",
     "type": "r_source",
     "hash": "2640388386",
     "contents": "",
@@ -16,11 +16,11 @@
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1749318602,
+    "lastKnownWriteTime": 1749319100,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1749318602082,
+    "last_content_update": 1749319100204,
     "read_only": false,
     "read_only_alternatives": []
 }
